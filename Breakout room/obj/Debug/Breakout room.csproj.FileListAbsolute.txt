@@ -1,0 +1,10 @@
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\bin\Debug\Breakout room.exe.config
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\bin\Debug\Breakout room.exe
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\bin\Debug\Breakout room.pdb
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\obj\Debug\Breakout room.csproj.AssemblyReference.cache
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\obj\Debug\Breakout_room.Form1.resources
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\obj\Debug\Breakout_room.Properties.Resources.resources
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\obj\Debug\Breakout room.csproj.GenerateResource.cache
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\obj\Debug\Breakout room.csproj.CoreCompileInputs.cache
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\obj\Debug\Breakout room.exe
+C:\bcs\ISCG6421 GUI Programming\Assesments\Assignment 2\Breakout room\Breakout room\obj\Debug\Breakout room.pdb
